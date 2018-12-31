@@ -7,7 +7,7 @@ In this project we have used the Point Cloud Library/ Depth Image Processing and
 </p>
 
 <p align="center">
-  <img src="flow.png" width="1000"/>
+  <img src="flow.png" width="500"/>
   
 </p>
 
